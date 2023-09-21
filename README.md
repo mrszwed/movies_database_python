@@ -12,3 +12,4 @@ Zawartość danych odpowiada części bazy The Movie Database (https://www.themo
 * katalog web zawiera kod interfejsu użytkownika
 * katalog natural_langauge zawiera kod odpowiedzialny za ładowani spacy (singleton) oraz kod defininujący wzorce zdań w języku naturalnym i ekstrakcję argumentów
 
+![Zrzut ekranu 2023-09-21 153745](https://github.com/mrszwed/movies_database_python/assets/92521696/c2fec595-da65-4664-a5c1-8a0d1fda962a)
