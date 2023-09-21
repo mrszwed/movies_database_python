@@ -14,6 +14,7 @@ Zawartość danych odpowiada części bazy The Movie Database (https://www.themo
 
 ![Zrzut ekranu 2023-09-21 153745](https://github.com/mrszwed/movies_database_python/assets/92521696/c2fec595-da65-4664-a5c1-8a0d1fda962a)
 
-![Zrzut ekranu 2023-09-21 153927](https://github.com/mrszwed/movies_database_python/assets/92521696/bdc7857a-f391-437e-b740-f3dc19a61d74)![Zrzut ekranu 2023-09-21 154107](https://github.com/mrszwed/movies_database_python/assets/92521696/6cf51c52-5878-4728-ac31-dd0b811bf439)
+![Zrzut ekranu 2023-09-21 153927](https://github.com/mrszwed/movies_database_python/assets/92521696/bdc7857a-f391-437e-b740-f3dc19a61d74)
 
-![Uploading Zrzut ekranu 2023-09-21 153927.png…]()
+![Zrzut ekranu 2023-09-21 154107](https://github.com/mrszwed/movies_database_python/assets/92521696/6cf51c52-5878-4728-ac31-dd0b811bf439)
+
